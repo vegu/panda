@@ -11,7 +11,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="vegu-panda",
+    name="vegu-pandax",
     version=version,
     description="Dummy python package used for testing PyPI releases",
     long_description=README,
