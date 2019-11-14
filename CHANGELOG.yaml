@@ -65,7 +65,7 @@
   - mtr plugin py3 compatibility issues
   - fileprobe lines that can't be processed are now skipped
   - 'fix #62 timeseriesdb plugins crash when `update` is given `none` as a value'
-2.0.0:
+3.0.0:
   added:
   - changelog
 unreleased: {}
