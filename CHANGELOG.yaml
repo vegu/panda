@@ -68,5 +68,8 @@
 3.0.0:
   added:
   - changelog
+3.0.1:
+  added:
+  - more changelog
 unreleased: {}
 
