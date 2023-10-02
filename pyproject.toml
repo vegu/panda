@@ -1,29 +1,3 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "panda"
-version = "3.3.5"
-description = "A Python library called panda."
-authors = [
-    {name = "Your Name", email = "your.email@example.com"}
-]
-readme = "README.md"
-license = "MIT"
-classifiers = [
-    "Development Status :: 3 - Alpha",
-    "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.9",
-    "Programming Language :: Python :: 3.10",
-]
-
-[options.packages.find]
-# Cannot use this for packaging: see https://github.com/vegu/panda/issues/24
-# currently used only for linting
-
 [tool.poetry]
 name = "panda"
 repository = "https://github.com/vegu/panda"
