@@ -21,15 +21,15 @@ classifiers = [
 ]
 
 [options.packages.find]
-# Cannot use this for packaging: see https://github.com/20c/panda/issues/24
+# Cannot use this for packaging: see https://github.com/vegu/panda/issues/24
 # currently used only for linting
 
 [tool.poetry]
 name = "panda"
-repository = "https://github.com/20c/panda"
+repository = "https://github.com/vegu/panda"
 version = "1.1.0"
 description = "Full control of your environment"
-authors = ["20C <code@20c.com>"]
+authors = ["vegu <code@vegu.com>"]
 readme = "README.md"
 license = "Apache-2.0"
 
