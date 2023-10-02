@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "panda"
 repository = "https://github.com/vegu/panda"
-version = "1.1.0"
+version = "3.4.0"
 description = "Full control of your environment"
 authors = ["vegu <code@vegu.com>"]
 readme = "README.md"
